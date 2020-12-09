@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi! I'm [Parth](https://www.linkedin.com/in/chawla201/).
+A computer science student passionate about data.
